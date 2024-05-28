@@ -61,5 +61,12 @@ Login:
 ![8](https://github.com/Software-Engineering-Laboratory-Sharif/SE-Lab-7/assets/39655434/981683d9-38bd-4c09-b5ed-6f7f74682bdc)
 
 ## Interact with docker
+1.
+![9](https://github.com/Software-Engineering-Laboratory-Sharif/SE-Lab-7/assets/39655434/a4946577-1738-4807-b649-ffaa92cf0de8)
+در عکس زیر ایمیج های se-lab-7-webserver و postgres مربوط به این آز است.
+![10](https://github.com/Software-Engineering-Laboratory-Sharif/SE-Lab-7/assets/39655434/7956e113-a802-4909-8a2c-587beb72abe9)
+
+2.
+![11](https://github.com/Software-Engineering-Laboratory-Sharif/SE-Lab-7/assets/39655434/6e11f31b-2baf-4db0-b9f8-c0099699c814)
 
 ## Questions
